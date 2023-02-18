@@ -12,6 +12,9 @@ body{
 	font-family: 'Heebo', sans-serif;
 	background: #F8FDFF;
 }
+.none{
+	display: none;
+}
 a{
 	text-decoration: none;
 }
